@@ -9,6 +9,8 @@ neutrophilsのマスク画像
 ![image](https://user-images.githubusercontent.com/43159778/115698084-3341a600-a39f-11eb-816c-0b1b24a46c87.png)
 
 それぞれのマスク画像をdataset.pyで指定したクラスidと紐づけながらロードしたい．
+期待している出力．  
+![image](https://user-images.githubusercontent.com/43159778/115698695-deeaf600-a39f-11eb-8b10-14731c925acf.png)
 
 
 ## dataset.py
